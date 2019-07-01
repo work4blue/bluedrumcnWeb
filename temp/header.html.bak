@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-ie8compat" style="" id="ls-global"><!--<![endif]--><head _wxhkphogpkobbkjccgfifhfjlahnoocnan_="shake_1.0"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="国内首家创业式Android，iOS应用，嵌入式产品开发培训">
+<meta name="keywords" content="Android 应用 iOS 应用,培训，外包，开发，运营，蓝点工坊 bluedrum work4blue 壁球俱乐部">
+<title>蓝点工坊 |  APP开发专家 | 极客化开发创业训练 |  iOS Android 应用 | 嵌入式Linux | Android 产品</title>
+
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://bluedrum.cn/favicon.ico" type="image/x-icon">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+
+<link rel="alternate" type="application/rss+xml" title="蓝点工坊 » Feed" href="http://www.bluedrum.cn/feed">
+<link rel="alternate" type="application/rss+xml" title="蓝点工坊 » 评论Feed" href="http://www.bluedrum.cn/comments/feed">
+<link rel="stylesheet" id="wpsqt-main-css" href="./files/main.css" type="text/css" media="all">
+<link rel="stylesheet" id="layerslider_css-css" href="./files/layerslider.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpProQuiz_front_style-css" href="./files/wpProQuiz_front.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="page-list-style-css" href="./files/page-list.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-style-css" href="./style.css" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-fonts-css" href="./files/fonts.css" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-adapt-css" href="./files/adaptive.css" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-retina-css" href="./files/retina.css" type="text/css" media="screen">
+<link rel="stylesheet" id="jackbox-css" href="./files/jackbox.css" type="text/css" media="screen">
+<link rel="stylesheet" id="jPlayer-css" href="./files/jquery.jPlayer.css" type="text/css" media="screen">
+<link rel="stylesheet" id="isotope-css" href="./files/jquery.isotope.css" type="text/css" media="screen">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='theme-ie-css'  href='http://www.bluedrum.cn/wp-content/themes/increase/css/ie.css?ver=1.0.0' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='theme-ieCss3-css'  href='http://www.bluedrum.cn/wp-content/themes/increase/css/ieCss3.php?ver=1.0.0' type='text/css' media='screen' />
+<![endif]-->
+<link rel="stylesheet" id="cmsms-google-font-1-css" href="./files/css" type="text/css" media="all">
+<link rel="stylesheet" id="wpcountdown-css" href="./files/main2.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="./files/ga.js"></script><script type="text/javascript" src="./files/jquery-2.0.3.min.js"></script>
+<script type="text/javascript" src="./files/site.js"></script>
+<script type="text/javascript" src="./files/modernizr.custom.all.min.js"></script>
+<script type="text/javascript" src="./files/respond.min.js"></script>
+<script type="text/javascript" src="./files/comment-reply.min.js"></script>
+<script type="text/javascript" src="./files/layerslider.kreaturamedia.jquery.js"></script>
+<script type="text/javascript" src="./files/jquery-easing-1.3.js"></script>
+<script type="text/javascript" src="./files/jquerytransit.js"></script>
+<script type="text/javascript" src="./files/layerslider.transitions.js"></script>
+<script type="text/javascript" src="./files/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="./files/countdown.js"></script>
+
+<meta name="description" content="国内首家创业式Android，iOS应用，嵌入式产品开发培训 | 找工作不如自己做产品">
+<meta name="keywords" content="Android 应用 iOS 应用,培训，外包，开发，运营，蓝点工坊 bluedrum work4blue 壁球俱乐部">
+<link rel="canonical" href="http://bluedrum.cn/index.html">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+ 
+ 
+
+<style type="text/css">body { background-color : #f5f5f5; background-image : url(img/bg.jpg); background-position : top center; background-repeat : repeat-x; background-attachment : fixed; }#header > .header_inner { height : 184px; } #header > .header_inner > a.logo { top : 30px; left : 0px; } #header > .header_inner > a.logo, #header > .header_inner > a.logo > img { width : 298px; height : 60px; } #header nav { top : 117px; right : 0px; ; } #header .wrap_social_icons { top : 40px; right : 0px; } #header .header_html { top : 10px; right : 0px; } @media only screen and (max-width : 1023px) { #header > .header_inner > a.logo { top : auto; left : auto; } #header > .header_inner { height : auto; } #header nav { top : auto; right : auto; } #header .wrap_social_icons { top : auto; right : auto; } } </style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>
+
+<style type="text/css">.cj-tween{-webkit-transition-property:none !important;}</style>
+<link rel="stylesheet" href="./files/skin.css" type="text/css"></head>

@@ -1,0 +1,264 @@
+/* LayerSlider Increase Skin */
+
+.ls-increase {
+	position: relative;
+	background: #fff;
+}
+ 
+.ls-increase:before {
+	content:"";
+	position:absolute;
+    bottom:-36px;
+	height:36px;
+	width:100%;
+	background:url(layer_shadow.png) no-repeat 0 0;
+	background-size:100% auto;
+}
+
+.ls-increase .ls-bottom-nav-wrapper {
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	opacity: 0;
+	filter:alpha(opacity=0);
+	transition:opacity 0.3s ease-in 0s;
+	-webkit-transition:opacity 0.3s ease-in 0s;
+	-moz-transition:opacity 0.3s ease-in 0s;
+	-ms-transition:opacity 0.3s ease-in 0s;
+	-o-transition:opacity 0.3s ease-in 0s;
+}
+
+.ls-increase:hover .ls-bottom-nav-wrapper {
+	opacity: 1;
+	filter:alpha(opacity=100);
+}
+
+.ls-increase .ls-playvideo {
+	width: 50px;
+	height: 50px;
+	margin-left: -25px;
+	margin-top: -25px;
+}
+
+.ls-increase .ls-playvideo,
+.ls-increase .ls-nav-sides,
+.ls-increase .ls-bottom-slidebuttons a,
+.ls-increase .ls-nav-prev,
+.ls-increase .ls-nav-next,
+.ls-increase .ls-nav-start,
+.ls-increase .ls-nav-stop {
+	background-image: url(skin.png); 
+	background-repeat: no-repeat;
+	background-color:transparent;
+}
+
+.ls-increase .ls-playvideo {
+	background-position: -300px -150px;
+}
+
+.ls-increase .ls-playvideo:hover,
+.ls-increase .ls-vpcontainer:hover .ls-playvideo {
+	background-position: -375px -150px;
+}
+
+.ls-increase .ls-nav-prev {
+	background-position: 0px 0px;
+}
+
+.ls-increase .ls-nav-prev:hover {
+	background-position: 0px -75px;
+}
+
+.ls-increase .ls-nav-next {
+	background-position: -150px 0px;
+}
+
+.ls-increase .ls-nav-next:hover {
+	background-position: -150px -75px;
+}
+
+.ls-increase .ls-nav-start {
+	background-position: -300px 0px;
+}
+
+.ls-increase .ls-nav-start:hover,
+.ls-increase .ls-nav-start-active {
+	background-position: -300px -75px;
+}
+
+.ls-increase .ls-nav-stop {
+	background-position: -450px 0px;
+}
+
+.ls-increase .ls-nav-stop:hover,
+.ls-increase .ls-nav-stop-active {
+	background-position: -450px -75px;
+}
+
+.ls-increase .ls-bottom-slidebuttons a {
+	background-position: 0px -150px;
+}
+
+.ls-increase .ls-bottom-slidebuttons {
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+
+.ls-increase .ls-bottom-slidebuttons a.ls-nav-active,
+.ls-increase .ls-bottom-slidebuttons a:hover {
+	background-position: -75px -150px;
+}
+
+.ls-increase .ls-nav-sideleft {
+	background-position: -150px -150px;	
+}
+
+.ls-increase .ls-nav-sideright {
+	background-position: -225px -150px;	
+}
+
+.ls-increase .ls-nav-prev,
+.ls-increase .ls-nav-next {
+	width: 50px;
+	height: 50px;
+	z-index: 10000;
+	top: 50%;
+	margin-top: -22px;	
+	position: absolute;
+}
+
+.ls-increase .ls-nav-prev {
+	left: 10px;	
+}
+
+.ls-increase .ls-nav-next {
+	right: 10px;	
+}
+
+@media only screen and (max-width: 400px) {
+
+	.ls-increase .ls-nav-prev {
+		left: 0px;	
+	}
+
+	.ls-increase .ls-nav-next {
+		right: 0px;	
+	}
+
+}
+
+.ls-increase .ls-bottom-slidebuttons,
+.ls-increase .ls-bottom-slidebuttons a,
+.ls-increase .ls-nav-start,
+.ls-increase .ls-nav-stop,
+.ls-increase .ls-nav-sides {
+	height: 36px;
+}
+
+.ls-increase .ls-bottom-slidebuttons,
+.ls-increase .ls-bottom-slidebuttons a,
+.ls-increase .ls-nav-start,
+.ls-increase .ls-nav-stop,
+.ls-increase .ls-nav-sides {
+	display: inline-block;
+}
+
+.ls-increase .ls-bottom-slidebuttons,
+.ls-increase .ls-nav-start,
+.ls-increase .ls-nav-stop,
+.ls-increase .ls-nav-sides {
+	top: -44px;
+}
+
+@media only screen and (max-width: 400px) {
+
+	.ls-increase .ls-bottom-slidebuttons,
+	.ls-increase .ls-nav-start,
+	.ls-increase .ls-nav-stop,
+	.ls-increase .ls-nav-sides {
+		top: -25px;
+	}
+
+}
+
+.ls-increase .ls-nav-start,
+.ls-increase .ls-nav-stop {
+	width: 24px;
+}
+
+.ls-increase .ls-bottom-slidebuttons a {
+	width: 20px;
+}
+
+.ls-increase .ls-nav-sides {
+	width: 13px;	
+}
+
+.ls-increase .ls-thumbnail-hover {
+	bottom: 45px;
+	padding: 3px;
+	margin-left: 1px;
+}
+
+.ls-increase .ls-thumbnail-hover-bg {
+	background: #4f4f4f;
+	box-shadow: 0px 2px 12px -4px black;
+	border-radius: 4px;
+}
+
+.ls-increase .ls-thumbnail-hover span {
+	border: 5px solid #4f4f4f;
+	margin-left: -5px;
+}
+
+.ls-increase .ls-thumbnail {
+	top: 15px;
+}
+
+.ls-increase .ls-thumbnail-inner {
+	padding: 2px;
+	margin-left: -2px;
+	background: #4f4f4f;
+	border-radius: 4px;
+}
+
+.ls-increase .ls-thumbnail-slide a {
+	margin-right: 2px;
+}
+
+.ls-increase .ls-nothumb {
+	background: #555;
+}
+
+.ls-increase .ls-above-thumbnails {
+	display: none;
+}
+
+.ls-increase .ls-below-thumbnails {
+	display: block;
+	margin-top: -20px;
+}
+
+.ls-increase .ls-loading-container {
+	width: 40px;
+	height: 40px;
+	margin-left: -20px;
+	margin-top: -20px;
+}
+
+.ls-increase .ls-loading-indicator {
+	width: 22px;
+	height: 22px;
+	margin-top: 9px;
+	background-image: url(loading.gif);	
+}
+
+.ls-increase .ls-fullscreen {
+	width: 30px;
+	height: 30px;
+	right: 10px;
+	top: 10px;
+}
+
+.ls-increase .ls-fullscreen:hover {
+}
